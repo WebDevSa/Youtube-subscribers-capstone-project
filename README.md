@@ -2,6 +2,17 @@ Get-Youtube-Subscribers
 -----------------------
 This is a node.js, express app to get the details of the Youtube Subscribers.
 
+There are four API endpoints in this app:
+-----------------------------------------
+1 - "/ "
+
+2 - "/subscribers "
+
+3 - "/subscribers/names "
+
+4 - "/subscribers/:id "
+
+
 ENDPOINTS:
 ----------
 
