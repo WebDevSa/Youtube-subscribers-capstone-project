@@ -42,7 +42,7 @@ npm start will start the server.
 
 DEPLOY:
 -------
-youtube-subscribers-capstone-project.vercel.app
+youtube-subscribers-capstone-project-22dx-7psecekwq-webdevsa.vercel.app
 
 
 -----------------------------------------------------------------------------------------
