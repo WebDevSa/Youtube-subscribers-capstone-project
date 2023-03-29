@@ -44,6 +44,10 @@ SCRIPTS:
 
 npm start will start the server.
 
+Watch Youtube video at:
+------------------------
+https://youtu.be/wvG92WImLms
+
 DEPLOY:
 -------
 youtube-subscribers-capstone-project-22dx-7psecekwq-webdevsa.vercel.app
