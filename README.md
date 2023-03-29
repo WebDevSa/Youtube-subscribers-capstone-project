@@ -18,13 +18,21 @@ LIBRARIES USED FOR THE APPLICATION:
 -----------------------------------
 
 nodemon
+
 mongoose
+
 mongodb
+
 cors
+
 dotenv
+
 express
+
 cross-env
+
 morgan
+
 supertest
 
 SCRIPTS:
