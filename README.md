@@ -1,8 +1,11 @@
 Get-Youtube-Subscribers
--------------------------
+-----------------------
 This is a node.js, express app to get the details of the Youtube Subscribers.
 
 ENDPOINTS:
+----------
+
+"/" default route.
 
 "/subscribers"- Returns the arrays of Subscribers.
 
@@ -12,6 +15,7 @@ ENDPOINTS:
 
 
 LIBRARIES USED FOR THE APPLICATION:
+-----------------------------------
 
 nodemon
 mongoose
@@ -24,8 +28,14 @@ morgan
 supertest
 
 SCRIPTS:
+--------
 
-npm start
+npm start will start the server.
+
+DEPLOY:
+-------
+youtube-subscribers-capstone-project.vercel.app
+
 
 -----------------------------------------------------------------------------------------
 
